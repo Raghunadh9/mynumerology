@@ -20,7 +20,6 @@ import {
   AlertDialogTitle,
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog";
-import { useSearchParams } from "next/navigation";
 
 interface DataSource {
   name_g2_block?: string;
